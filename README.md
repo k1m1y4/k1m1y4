@@ -1,29 +1,49 @@
-<!-- 💥 Cyber-Java + Gamer Profile -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:6A00FF&height=200&section=header&text=Kimiya%20:%20Java%20Dev%20%2B%20Gamer&fontSize=36&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:2c3e50&height=200&section=header&text=👋%20Hey%20there!%20I'm%20[YourName]&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3500&pause=800&color=FF6B00&center=true&vCenter=true&width=800&lines=☕+Java+enthusiast+%7C+Spring+fanatic;🎮+Competitive+Gamer+%7C+FPS%2FAction+lover;🚀+Clean+code%2C+high+performance%2C+fun+projects" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7D746&center=true&vCenter=true&width=500&lines=💻+Java+Developer;🎮+Gamer+%26+Tech+Enthusiast;🚀+Open+Source+Lover;✨+Always+Learning+New+Things!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## ☕ درباره‌ی من
-- من **[نامت]** هستم؛ روزها **Java/Spring**، شب‌ها **گیمر** 🎮  
-- عاشق **معماری تمیز، تست‌پذیری، پرفورمنس** و خودکارسازی  
-- فلسفه: _“Ship it. Measure it. Improve it.”_
+### 🌟 About Me
+- 🔭 Currently crafting **awesome Java projects**  
+- 🎮 Gamer at night, **debugger by day**  
+- ✨ Love mixing **code + creativity**  
+- ☕ Powered by **coffee & curiosity**  
+- 🐍 Lowkey learning **Python on the side**  
 
 ---
 
-## 🧰 Java Stack
-```bash
-Languages    →  Java 21+ (sealed, records), Kotlin (occasionally)
-Frameworks   →  Spring Boot · Spring Cloud · Quarkus (for fun)
-Build Tools  →  Maven · Gradle
-Databases    →  PostgreSQL · MySQL · Redis · MongoDB
-Messaging    →  Kafka · RabbitMQ
-Testing      →  JUnit5 · Testcontainers · Mockito · WireMock
-DevOps/CI    →  Docker · Docker Compose · GitHub Actions · Sonar
-Cloud        →  AWS (EC2, S3, RDS) · K8s basics · OpenAPI/Swagger
-Observability→  Micrometer · Prometheus · Grafana · ELK
+### 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,github,vscode,mysql,linux" />
+</p>
+
+---
+
+### 📊 GitHub Vibes
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=radical" height="165" />
+</p>
+
+---
+
+### 🎉 Fun Zone
+- 🎧 Favorite focus fuel: `lofi + coffee`
+- 🕹️ Leveling up in **both code & games**
+- 🌌 Motto: *"Write code like poetry, play games like a legend."*
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:8e44ad&height=120&section=footer" />
+</p>

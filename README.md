@@ -1,48 +1,28 @@
-<!-- Banner -->
+<!-- Cyberpunk Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Welcome%20to%20Kimiya's%20World!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00ffff&height=200&section=header&text=⚡%20KIMIYA%20⚡&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 </p>
 
-<!-- About me -->
-## 👩‍💻 About Me
-✨ Hi! I’m **Kimiya**  
-🚀 A curious mind exploring code, creativity, and new technologies.  
-💡 I love building **useful + fun** projects and sharing knowledge.  
-
----
-
-## 🛠️ Tech Playground
-⚡ Languages: `JavaScript` · `Python` · `C++` · `TypeScript`  
-🎨 Frameworks: `React` · `Node.js` · `Express` · `Next.js`  
-🔧 Tools: `Git` · `GitHub` · `Docker` · `VS Code`  
-☁️ Interests: `AI` · `Open Source` · `Creative Coding`  
-
----
-
-## 📈 GitHub Magic
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" height="160" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=💀+Code.+Create.+Conquer.;🚀+Building+dark+side+of+tech.;⚡+Always+in+dev+mode..." />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-</p>
+## 🕶️ About Me
+🔥 I’m **Kimiya** — a developer with a passion for  
+**⚡ futuristic design | 🤖 AI | 🌌 open-source universes**  
+
+- 🎯 Always chasing **clean code & powerful ideas**  
+- 💻 Living in **dark mode** since day one  
+- 🧩 Breaking problems into **beautiful solutions**  
 
 ---
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer"/>
-</p>
+## 🛠️ Tech Arsenal
+```bash
+Languages   →  JavaScript · Python · C++ · TypeScript
+Frameworks  →  React · Node.js · Next.js · Express
+Tools       →  Git · GitHub · Docker · VS Code
+Specialties →  AI · Creative Coding · Open Source
